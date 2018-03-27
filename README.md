@@ -1,7 +1,7 @@
 # Programming-Chipset-System
 > Create a * **Chipset** *  that can be slot in the processor or main-program.
 
-##Architecture
+## Architecture
 1. First step , we need to designing a class that can to expand another class and using internal function to do something. 
 ![image](https://i.imgur.com/e1sVcadl.jpg)
 2. So we can thinking that the **Main-Chip** having **pre-display** , and according to what chip we installed on the slot , then show current chips output data on current slotdata displayer. 
